@@ -1,0 +1,2 @@
+Main-Class: Main
+Class-Path: Pokemons.jar ./libs/PokemonsCustom.jar ./libs/PhysicalMoves.jar ./libs/SpecialMoves.jar ./libs/StatusMoves.jar
